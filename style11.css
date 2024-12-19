@@ -5,12 +5,15 @@
 	background-color:#26aaa6;
 }
 
-.Title h1.head1{
+.title h1.head1{
 	Color:#aa7826;
 	text-align:Center;
-	margin:200px;
-	padding:150px;
+	margin:25px;
+	padding:15px;
 	
-           
-	
+}
+
+.products img.p1{
+	height:90px;
+	width:250px;
 }
